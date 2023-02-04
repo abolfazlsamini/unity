@@ -33,7 +33,7 @@ public class EchoLocation : MonoBehaviour
     void Start()
     {
 
-        // print(transform.GetChild(0).name);
+        Debug.LogError("Press E to start echo location");
     }
     void Update()
     {
