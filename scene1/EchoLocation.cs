@@ -34,6 +34,7 @@ public class EchoLocation : MonoBehaviour
     {
 
         Debug.LogError("Press E to start echo location");
+        Debug.LogError("if didn't work add findable TAG to cube objects ");
     }
     void Update()
     {
